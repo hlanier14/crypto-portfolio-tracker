@@ -1,4 +1,4 @@
-## Cryptocurrency Portfolio Tracker
+# Cryptocurrency Portfolio Tracker
 
-# Description
+## Description
 This library connects cryptocurrency wallet information from multiple blockchains, providing a complete view of all asset positions and overall performance
